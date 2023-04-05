@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: darkred;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+    list-style-position: center;
+}
+
+h1 {
+    font-family: "Brush Script MT", cursive;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    box-shadow: 0 0 20px 0 black;
+    padding: 10px;
+    background-color: white;
+}
+
+ul {
+    display:contents;
+}
+
+li {
+    padding-top: 10px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: grey;
+}
+
+a:hover {
+    color: red;
+}
